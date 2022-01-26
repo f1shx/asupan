@@ -128,7 +128,7 @@ a div:active {
 }
 
 @media (max-width: 400px) {
-  main a div p span {
+  main a div p span img {
     display: none;
   }
 }
